@@ -1,0 +1,12 @@
+install yarn
+create-react-app foldername
+yarn add bootstrap
+
+npm install --save react-router-dom
+yarn add react router dom
+
+
+
+npm install -g json-server
+create db.json file
+json-server --watch db.json
